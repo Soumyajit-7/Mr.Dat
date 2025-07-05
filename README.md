@@ -69,18 +69,3 @@ Mr.Dat is an intelligent, automated data-cleaning platform that allows users to 
 | Deployment Tools     | Airflow Variables, REST API, XCom, Alembic (implied) |
 
 ---
-
-## 🛠️ Setup Instructions
-
-### Prerequisites
-
-- Python 3.9+
-- PostgreSQL
-- Apache Airflow
-- Groq API key
-- Slack Webhook URL
-
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/mr-dat.git
-cd mr-dat
